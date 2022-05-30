@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 I'm Andriy - a software engineer switched to web3 after 9 years working in web2.
 
-I used to build various web projects and automations using Python. Now I'm going through rabbit hole of crypto world, building smart contracts, running test-net nodes and having fun.
+I used to build various web projects and automations using Python. Now I'm going through rabbit hole of crypto world, building smart contracts, running test-net nodes and having fun 😃
 
 I love software development and the spirit of entrepreneurship. 
 

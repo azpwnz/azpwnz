@@ -40,6 +40,8 @@ I used to build various web projects and automations using Python. Now I'm going
 
 I love software development and the spirit of entrepreneurship. 
 
+Proud to be a member of [Developer DAO](https://www.developerdao.com/) 👨‍💻
+
 ## Web3 projects
 
 [3lander NFT on Near blockchain](https://github.com/azpwnz/3lander-near-nft-NCD) - Smart contract that allows to mint 1 of 1 exclusive art NFT and gives the ability to the owner to determine the piece's color. There are 3 variations of the work. The owner will determine which of the 3 is displayed.

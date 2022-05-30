@@ -40,7 +40,7 @@ I used to build various web projects and automations using Python. Now I'm going
 
 I love software development and the spirit of entrepreneurship. 
 
-Proud to be a member of [Developer DAO](https://www.developerdao.com/) 👨‍💻
+Proud member of [Developer DAO](https://www.developerdao.com/) 👨‍💻
 
 ## Web3 projects
 

@@ -31,6 +31,7 @@ Feel free to shoot me a DM in Telegram, Discord or email.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhuk.andrey.a@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/zhukandriy/)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c612f6db06892a56)
 
 
 
@@ -41,6 +42,8 @@ I used to build various web projects and automations using Python. Now I'm going
 I love software development and the spirit of entrepreneurship. 
 
 Proud member of [Developer DAO](https://www.developerdao.com/) 👨‍💻
+
+1000+ worked hours and 100% Job Success Score on [Upwork](https://www.upwork.com/freelancers/~01c612f6db06892a56) 💚
 
 ## Web3 projects
 

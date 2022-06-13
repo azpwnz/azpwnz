@@ -45,6 +45,8 @@ Proud member of [Developer DAO](https://www.developerdao.com/) 👨‍💻
 
 1000+ worked hours and 100% Job Success Score on [Upwork](https://www.upwork.com/freelancers/~01c612f6db06892a56) 💚
 
+**Technologies:** Rust, Python, Flask, Django, Javascript, React, Kubernetes, Serverless, AWS lambda
+
 ## Web3 projects
 
 [3lander NFT on Near blockchain](https://github.com/azpwnz/3lander-near-nft-NCD) - Smart contract that allows to mint 1 of 1 exclusive art NFT and gives the ability to the owner to determine the piece's color. There are 3 variations of the work. The owner will determine which of the 3 is displayed.

@@ -23,6 +23,8 @@ Feel free to shoot me a DM in Telegram, Discord or email.
 * Discord: azpwnz#4266
 * Email: zhuk.andrey.a@gmail.com
 
+Check out my CV: [Resume](https://docs.google.com/document/d/15ZVTA6EBbpKZYUVvQB7eEOh9K5boG37uYNA47VBKQoI/edit?usp=sharing) 👨‍💻
+
 
 ## About Me
 

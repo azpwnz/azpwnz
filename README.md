@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Looking for full-time/part-time/project gigs in web3.**
 
 Feel free to shoot me a DM in Telegram, Discord or email.
 
@@ -23,7 +22,6 @@ Feel free to shoot me a DM in Telegram, Discord or email.
 * Discord: azpwnz#4266
 * Email: zhuk.andrey.a@gmail.com
 
-Check out my CV: [Resume](https://docs.google.com/document/d/15ZVTA6EBbpKZYUVvQB7eEOh9K5boG37uYNA47VBKQoI/edit?usp=sharing) 👨‍💻
 
 
 ## About Me
@@ -37,17 +35,16 @@ Check out my CV: [Resume](https://docs.google.com/document/d/15ZVTA6EBbpKZYUVvQB
 
 
 
-I'm Andriy - a software engineer switched to web3 after 9 years working in web2.
+I’m Andriy - a software engineer with 9 years of professional experience.
+I'm building various web projects and automations using Python.
 
-I used to build various web projects and automations using Python. Now I'm going through rabbit hole of crypto world, building smart contracts, running test-net nodes and having fun 😃
-
-I love software development and the spirit of entrepreneurship. 
+I love software development and working in a fast-paced environment with great team-mates. 
 
 Proud member of [Developer DAO](https://www.developerdao.com/) 👨‍💻
 
 1000+ worked hours and 100% Job Success Score on [Upwork](https://www.upwork.com/freelancers/~01c612f6db06892a56) 💚
 
-**Technologies:** Rust, Python, Flask, Django, Javascript, React, Kubernetes, Serverless, AWS lambda
+**Technologies:** Python, Django, Flask, Javascript, React, Docker, Kubernetes, Serverless, AWS lambda, Celery, Postgres, Mongo, Redis, RabbitMQ, Rust
 
 ## Web3 projects
 

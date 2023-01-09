@@ -38,33 +38,11 @@ Feel free to shoot me a DM in Telegram, Discord or email.
 I’m Andriy - a software engineer with 9 years of professional experience.
 I'm building various web projects and automations using Python.
 
-I love software development and working in a fast-paced environment with great team-mates. 
+I love software development and working with great team-mates. 
 
 Proud member of [Developer DAO](https://www.developerdao.com/) 👨‍💻
 
 1000+ worked hours and 100% Job Success Score on [Upwork](https://www.upwork.com/freelancers/~01c612f6db06892a56) 💚
 
 **Technologies:** Python, Django, Flask, Javascript, React, Docker, Kubernetes, Serverless, AWS lambda, Celery, Postgres, Mongo, Redis, RabbitMQ, Rust
-
-## Web3 projects
-
-[3lander NFT on Near blockchain](https://github.com/azpwnz/3lander-near-nft-NCD) - Smart contract that allows to mint 1 of 1 exclusive art NFT and gives the ability to the owner to determine the piece's color. There are 3 variations of the work. The owner will determine which of the 3 is displayed.
-
-## Testnets
-I'm helping various projects by running test-net nodes, validators and testing the product.
-
-* [Bit Country](https://bit.country/)
-* [Nym](https://nymtech.net/)
-* [Massa](https://massa.net/)
-* [Minima](https://minima.global/)
-* [IronFish](https://ironfish.network/)
-* [Aleo](https://www.aleo.org/)
-* [Masa Finance](https://masa.finance/)
-* [Gear](https://www.gear-tech.io/)
-* [Aptos](https://aptoslabs.com/)
-* [StarkNet](https://starkware.co/starknet/)
-* [SubSpace](https://subspace.network/)
-* [Celestia](https://celestia.org/)
-* [Humanode](https://humanode.io/)
-
 

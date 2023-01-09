@@ -38,11 +38,12 @@ Feel free to shoot me a DM in Telegram, Discord or email.
 I’m Andriy - a software engineer with 9 years of professional experience.
 I'm building various web projects and automations using Python.
 
+Currenty working in fintech.
+Learning solidity and smart-contracts in spare time.
+
 I love software development and working with great team-mates. 
 
 Proud member of [Developer DAO](https://www.developerdao.com/) 👨‍💻
 
 1000+ worked hours and 100% Job Success Score on [Upwork](https://www.upwork.com/freelancers/~01c612f6db06892a56) 💚
-
-**Technologies:** Python, Django, Flask, Javascript, React, Docker, Kubernetes, Serverless, AWS lambda, Celery, Postgres, Mongo, Redis, RabbitMQ, Rust
 

@@ -33,6 +33,7 @@ Feel free to shoot me a DM in Telegram, Discord or email.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/zhukandriy/)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c612f6db06892a56)
 
+[azpwnz.eth POAPs](https://collectors.poap.xyz/scan/azpwnz.eth)
 
 
 I’m Andriy - a software engineer with 10+ years of professional experience.
@@ -46,4 +47,6 @@ I love software development and working with great team-mates.
 Proud member of [Developer DAO](https://www.developerdao.com/) 👨‍💻 and Builder at [Buidl Guidl](https://app.buidlguidl.com/builders/0xB92b820C20c2F24927848f3BcB2F67f2a3AeCc74) 🏰
 
 1000+ worked hours and 100% Job Success Score on [Upwork](https://www.upwork.com/freelancers/~01c612f6db06892a56) 💚
+
+
 

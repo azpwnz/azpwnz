@@ -35,15 +35,15 @@ Feel free to shoot me a DM in Telegram, Discord or email.
 
 
 
-I’m Andriy - a software engineer with 9 years of professional experience.
+I’m Andriy - a software engineer with 10+ years of professional experience.
 I'm building various web projects and automations using Python.
 
 Currenty working in fintech.
-Learning solidity and smart-contracts in spare time.
+Learning web3 dev and contributing to the projects in the space in spare time.
 
 I love software development and working with great team-mates. 
 
-Proud member of [Developer DAO](https://www.developerdao.com/) 👨‍💻
+Proud member of [Developer DAO](https://www.developerdao.com/) 👨‍💻 and Builder at [Buidl Guidl](https://app.buidlguidl.com/builders/0xB92b820C20c2F24927848f3BcB2F67f2a3AeCc74) 🏰
 
 1000+ worked hours and 100% Job Success Score on [Upwork](https://www.upwork.com/freelancers/~01c612f6db06892a56) 💚
 

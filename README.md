@@ -37,6 +37,7 @@ Feel free to shoot me a DM in Telegram, Discord or email.
 
 
 I’m Andriy - a software engineer with 11+ years of professional experience.
+
 Building various web projects and automations using Python.
 
 

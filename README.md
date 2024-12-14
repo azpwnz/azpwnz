@@ -36,11 +36,9 @@ Feel free to shoot me a DM in Telegram, Discord or email.
 [azpwnz.eth POAPs](https://collectors.poap.xyz/scan/azpwnz.eth)
 
 
-I’m Andriy - a software engineer with 10+ years of professional experience.
-I'm building various web projects and automations using Python.
+I’m Andriy - a software engineer with 11+ years of professional experience.
+Building various web projects and automations using Python.
 
-Currenty working in fintech.
-Learning web3 dev and contributing to the projects in the space in spare time.
 
 I love software development and working with great team-mates. 
 
@@ -48,5 +46,6 @@ Proud member of [Developer DAO](https://www.developerdao.com/) 👨‍💻 and B
 
 1000+ worked hours and 100% Job Success Score on [Upwork](https://www.upwork.com/freelancers/~01c612f6db06892a56) 💚
 
+[Huglo Comparison App](https://app.huglo.com.au/)
 
 

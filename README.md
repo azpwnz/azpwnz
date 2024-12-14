@@ -48,4 +48,6 @@ Proud member of [Developer DAO](https://www.developerdao.com/) 👨‍💻 and B
 
 [Huglo Comparison App](https://app.huglo.com.au/)
 
+[Product Hunt](https://www.producthunt.com/products/huglo-comparison-app)
+
 

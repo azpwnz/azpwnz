@@ -51,4 +51,5 @@ Proud member of [Developer DAO](https://www.developerdao.com/) 👨‍💻 and B
 
 [Product Hunt](https://www.producthunt.com/products/huglo-comparison-app)
 
+[LinkTree](https://linktr.ee/azpwnz)
 

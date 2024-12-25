@@ -53,3 +53,5 @@ Proud member of [Developer DAO](https://www.developerdao.com/) 👨‍💻 and B
 
 [LinkTree](https://linktr.ee/azpwnz)
 
+[Readcv](https://read.cv/azpwnz)
+
